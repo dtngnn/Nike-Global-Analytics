@@ -10,7 +10,7 @@
 This project focuses on building an end-to-end data pipeline, transforming raw retail product data into strategic business insights about Nike’s global pricing and assortment operations.
 
 **Data Scope:** 
-- **Data Source:** [Kaggle Dataset](https://www.kaggle.com/datasets/bsthere/nike-global-catalogue-2026)
+- **Data Source:** [Nike Global Catalogue 2026 Kaggle Dataset](https://www.kaggle.com/datasets/bsthere/nike-global-catalogue-2026)
 - **Volume:** 1,447,795 records.
 - **Coverage:** 45 countries.
 - **Attributes:** Product information, local prices, sale prices, reviews, and model numbers.

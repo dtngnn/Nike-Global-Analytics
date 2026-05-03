@@ -1,0 +1,9 @@
+# Bỏ qua toàn bộ thư mục dữ liệu
+dataset/
+
+# Bỏ qua các file cache của Python
+__pycache__/
+*.pyc
+
+# Bỏ qua file môi trường hoặc file chứa mật khẩu (nếu có)
+.env

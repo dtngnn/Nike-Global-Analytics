@@ -2,7 +2,6 @@
 
 ### Global Pricing and Product Assortment Strategy Analysis for Nike
 
-![Nike Data Project](https://img.shields.io/badge/Data_Level-Professional-blue)
 ![Tech Stack](https://img.shields.io/badge/Stack-Python_|_SQL_|_PostgreSQL-green)
 ![Dataset](https://img.shields.io/badge/Rows-1.4M+-orange)
 
